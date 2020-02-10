@@ -1,0 +1,19 @@
+.container {
+  display: flex;
+  flex-direction: column;
+  width: 100px;
+}
+
+.label {
+  font-size: 12px;
+  font-weight: bold;
+}
+
+.input {
+  border: none;
+  border-bottom: 1px solid black;
+  outline: none;
+  padding: 2px 0px;
+  font-size: 12px;
+  height: 20px;
+}
